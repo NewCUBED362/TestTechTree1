@@ -1,1 +1,11 @@
-
+[
+  {
+    "columnNumber": 0,
+    "era": "Ancient era",
+    "buildingCost": 20,
+    "wonderCost": 100,
+    "techs": {
+      "name": "Pottery",
+             } 
+  }
+]
