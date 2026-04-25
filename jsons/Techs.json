@@ -5,7 +5,9 @@
     "buildingCost": 20,
     "wonderCost": 100,
     "techs": {
-      "name": "Pottery",
-             } 
+      "name": "Ceremonial Burial",
+      "row": 0,
+      "cost": 15,
+    } 
   }
 ]
